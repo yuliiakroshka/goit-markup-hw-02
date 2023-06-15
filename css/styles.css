@@ -22,9 +22,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-.link:hover,
-.link:focus {
+.link-header:hover,
+.link-header:focus {
   color: #404bbf;
 }
 .link-logo {
@@ -166,7 +165,7 @@ address {
   color: #ffffff;
   background-color: #404bbf;
 }
-.row {
+.list-row {
   list-style: none;
   text-decoration: none;
 }
