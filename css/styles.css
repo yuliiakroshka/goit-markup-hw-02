@@ -11,7 +11,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
-.link-header {
+.list-header {
   color: #2e2f42;
   font-weight: 500;
   text-decoration: none;
@@ -32,11 +32,13 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.span {
+.studio {
   color: #2e2f42;
 }
-.link-address {
+address {
   font-style: normal;
+}
+.link-address {
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -79,6 +81,14 @@ body {
 .title {
   font-size: 20px;
   font-weight: 500;
+}
+.list-benefits {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-benefits {
+  letter-spacing: 0.02em;
 }
 .title-section {
   font-size: 36px;
