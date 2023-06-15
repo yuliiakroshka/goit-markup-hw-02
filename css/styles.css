@@ -131,6 +131,16 @@ address {
 .footer {
   background-color: #2e2f42;
 }
-.footer p {
+.footer-text {
   color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+.buttons {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
 }
