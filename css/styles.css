@@ -6,7 +6,9 @@ body {
   line-height: 1.5;
   font-weight: 400;
   text-align: left;
+   text-decoration: none;
 }
+
 .header {
   background-color: #2e2f42;
   width: 1440px;
@@ -14,8 +16,7 @@ body {
 }
 .link {
   color: #2e2f42;
-  text-decoration: none;
-}
+ 
 .link:hover {
   color: #404bbf;
 }
@@ -72,6 +73,8 @@ button:hover {
 }
 .footer {
   background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
 }
 .footer p {
   color: #f4f4fd;
