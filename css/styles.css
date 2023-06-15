@@ -1,121 +1,84 @@
 :root {
-  font-family: "Roboto", sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --primary-background-color: #FFFFFF;
+  --primary-color:#434455;
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  text-align: left;
-  text-decoration: none;
-  list-style-type: none;
 }
-.logo {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  text-decoration: none;
-}
-.studio {
-  color: #2e2f42;
-}
-ul {
-  list-style-type: none;
-}
-
-.header {
-  background-color: #2e2f42;
-  width: 1440px;
-  height: 72px;
-}
-.link {
-  list-style: none;
+.link-header {
   color: #2e2f42;
   font-weight: 500;
+  text-decoration: none;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-a .header {
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+.link-address {
+  font-style: normal;
+  letter-spacing: 0.02em;
+  color: #434455;}
+.link-address:hover,
+.link-address:focus {
+    color: #404bbf;
+  }
+}
+.list {
+  list-style: none;
+}
+
+.header.link {
   font-weight: 500;
 }
 .section-hero {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
-  top: 72px;
-}
-.section-benefits {
-  width: 1128px;
-  height: 104px;
-  top: 792px;
-  left: 156px;
 }
 .hero-title {
   font-weight: 700;
   color: #ffffff;
-  text-align: center;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
-button {
-  color: #9747ff;
-}
-button:hover {
-  color: #9747ff;
-}
-.section-benefits {
-  width: 1128px;
-  height: 104px;
-  top: 792px;
-  left: 156px;
+.button-hero {
+  background-color: #4D5AE5
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+  }
+.button-hero:hover,
+.button-hero:focus {background-color: #404BBF;
 }
 .title {
   font-size: 20px;
   font-weight: 500;
 }
-.section-we-are {
-  height: 412px;
-  width: 1128px;
-  left: 156px;
-  top: 1016px;
-}
 .title-section {
   font-size: 36px;
   font-weight: 700;
-  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .secton-team {
-  background-color: #2e2f42;
-  width: 1440px;
-  height: 732px;
-  top: 1548px;
+  background-color: #f4f4fd;
 }
 .footer {
-  width: 1440px;
-  height: 312px;
+  background-color: #2e2f42;
 }
-
-.footer-text {
+.footer p {
   color: #f4f4fd;
-}
-.row-1 {
-  color: #e7e9fc;
-  width: 1128px;
-  height: 420px;
-  left: 156px;
-}
-.row-2 {
-  width: 1128px;
-  height: 420px;
-  left: 156px;
-}
-.row-3 {
-  width: 1128px;
-  height: 420px;
-  left: 156px;
 }
