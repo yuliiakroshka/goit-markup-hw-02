@@ -62,8 +62,6 @@ body {
 .button-hero:hover,
 .button-hero:focus {background-color: #404BBF;
 }
-
-
 .title {
   font-size: 20px;
   font-weight: 500;
@@ -71,6 +69,9 @@ body {
 .title-section {
   font-size: 36px;
   font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .secton-team {
   background-color: #f4f4fd;
