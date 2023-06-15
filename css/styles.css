@@ -6,7 +6,8 @@ body {
   line-height: 1.5;
   font-weight: 400;
   text-align: left;
-   text-decoration: none;
+  text-decoration: none;
+  list-style-type: none;
 }
 
 .header {
