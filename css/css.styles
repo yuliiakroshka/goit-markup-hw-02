@@ -6,7 +6,9 @@ body {
   line-height: 1.5;
   font-weight: 400;
   text-align: left;
+   text-decoration: none;
 }
+
 .header {
   width: 1440px;
   height: 72px;
