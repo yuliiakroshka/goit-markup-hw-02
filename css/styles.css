@@ -13,8 +13,6 @@ body {
 }
 .list-header {
   list-style: none;
-}
-.link-header {
   color: #2e2f42;
   font-weight: 500;
   text-decoration: none;
