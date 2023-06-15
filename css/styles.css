@@ -38,6 +38,7 @@ body {
 .hero-title {
   font-weight: 700;
   color: #ffffff;
+  text-align: center;
 }
 button {
   color: #9747ff;
@@ -64,6 +65,7 @@ button:hover {
 .title-section {
   font-size: 36px;
   font-weight: 700;
+  text-align: center;
 }
 .secton-team {
   background-color: #f4f4fd;
@@ -71,11 +73,13 @@ button:hover {
   height: 732px;
   top: 1548px;
 }
-.footer {
-  background-color: #2e2f42;
+.footer {  
   width: 1440px;
   height: 312px;
-}
+  background-color: 
+NAVY BLUE;
+ }
+ 
 .footer-text {
   color: #f4f4fd;
 }
