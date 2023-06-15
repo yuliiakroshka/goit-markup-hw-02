@@ -18,6 +18,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  list-style: none;
 }
 .link:hover,
 .link:focus {
@@ -91,12 +92,12 @@ address {
 .text-benefits {
   letter-spacing: 0.02em;
 }
-.title-section {
+.title-benefits {
   font-size: 36px;
-  font-weight: 700;
-  line-height: 1.2;
+  font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #454425;
 }
 .secton-team {
   background-color: #f4f4fd;
