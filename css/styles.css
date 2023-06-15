@@ -9,6 +9,9 @@ body {
   text-decoration: none;
   list-style-type: none;
 }
+ul {
+  list-style-type: none;
+}
 
 .header {
   background-color: #2e2f42;
@@ -17,11 +20,8 @@ body {
 }
 .link {
   color: #2e2f42;
- 
-.link:hover {
-  color: #404bbf;
 }
-.header.link {
+a .header {
   font-weight: 500;
 }
 .section-hero {
@@ -69,27 +69,25 @@ button:hover {
   text-align: center;
 }
 .secton-team {
-  background-color: #f4f4fd;
+  background-color: #2e2f42;
   width: 1440px;
   height: 732px;
   top: 1548px;
 }
-.footer {  
+.footer {
   width: 1440px;
   height: 312px;
-  background-color: 
-NAVY BLUE;
- }
- 
+}
+
 .footer-text {
   color: #f4f4fd;
 }
 .row-1 {
-  color: #E7E9FC;
+  color: #e7e9fc;
   width: 1128px;
   height: 420px;
   left: 156px;
- }
+}
 .row-2 {
   width: 1128px;
   height: 420px;
