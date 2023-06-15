@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #e5e5e5;
+  color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: left;
+}
+.header {
+  width: 1440px;
+  height: 72px;
+}
+.link {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.link:hover {
+  color: #404bbf;
+}
+.header.link {
+  font-weight: 500;
+}
+.section-hero {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+  top: 72px;
+  .section-benefits {
+    width: 1128px;
+    height: 104px;
+    top: 792px;
+    left: 156px;
+  }
+}
+.hero-title {
+  font-weight: 700;
+  color: #ffffff;
+}
+button {
+  color: #9747ff;
+}
+button:hover {
+  color: #9747ff;
+}
+.section-benefits {
+  width: 1128px;
+  height: 104px;
+  top: 792px;
+  left: 156px;
+}
+.title {
+  font-size: 20px;
+  font-weight: 500;
+}
+.section-we-are {
+  height: 412px;
+  width: 1128px;
+  left: 156px;
+  top: 1016px;
+}
+.title-section {
+  font-size: 36px;
+  font-weight: 700;
+}
+.secton-team {
+  background-color: #f4f4fd;
+  width: 1440px;
+  height: 732px;
+  top: 1548px;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer p {
+  color: #f4f4fd;
+}
