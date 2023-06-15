@@ -12,14 +12,17 @@ body {
   font-weight: 400;
 }
 .list-header {
+  list-style: none;
+}
+.link-header {
   color: #2e2f42;
   font-weight: 500;
   text-decoration: none;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  list-style: none;
 }
+
 .link:hover,
 .link:focus {
   color: #404bbf;
@@ -148,7 +151,7 @@ address {
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
-.buttons {
+.button-portfolio {
   background-color: #f4f4fd;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -158,11 +161,29 @@ address {
   color: #ffffff;
   cursor: pointer;
 }
-.buttons:hover,
-.buttons:focus {
+.button-portfolio:hover,
+.button-portfolio:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
+.row {
+  list-style: none;
+  text-decoration: none;
+}
+.title-row {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-row {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .footer.studio {
   color: #f4f4fd;
 }
