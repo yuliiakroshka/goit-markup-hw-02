@@ -1,11 +1,11 @@
 :root {
   --primary-font: "Roboto", sans-serif;
-  --primary-background-color: #FFFFFF;
-  --primary-color:#434455;
+  --primary-background-color: #ffffff;
+  --primary-color: #434455;
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
@@ -26,11 +26,11 @@ body {
 .link-address {
   font-style: normal;
   letter-spacing: 0.02em;
-  color: #434455;}
+  color: #434455;
+}
 .link-address:hover,
 .link-address:focus {
-    color: #404bbf;
-  }
+  color: #404bbf;
 }
 .list {
   list-style: none;
@@ -50,17 +50,18 @@ body {
   letter-spacing: 0.02em;
 }
 .button-hero {
-  background-color: #4D5AE5
-  font-family: "Roboto", sans-serif;
+  background-color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  }
+}
 .button-hero:hover,
-.button-hero:focus {background-color: #404BBF;
+.button-hero:focus {
+  background-color: #404bbf;
 }
 .title {
   font-size: 20px;
