@@ -96,7 +96,11 @@ address {
   letter-spacing: 0.02em;
   color: #454425;
 }
-.titlt-section {
+.description-benefits {
+  line-height: 1.5;
+  color: #434455;
+}
+.title-section {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -104,7 +108,7 @@ address {
   color: #2e2f42;
 }
 .secton-team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .title-team {
   font-size: 36px;
@@ -158,4 +162,7 @@ address {
 .buttons:focus {
   color: #ffffff;
   background-color: #404bbf;
+}
+.footer.studio {
+  color: #f4f4fd;
 }
