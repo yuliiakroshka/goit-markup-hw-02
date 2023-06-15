@@ -8,6 +8,7 @@ body {
   text-align: left;
 }
 .header {
+  background-color: #2e2f42;
   width: 1440px;
   height: 72px;
 }
@@ -26,12 +27,12 @@ body {
   width: 1440px;
   height: 600px;
   top: 72px;
-  .section-benefits {
-    width: 1128px;
-    height: 104px;
-    top: 792px;
-    left: 156px;
-  }
+}
+.section-benefits {
+  width: 1128px;
+  height: 104px;
+  top: 792px;
+  left: 156px;
 }
 .hero-title {
   font-weight: 700;
