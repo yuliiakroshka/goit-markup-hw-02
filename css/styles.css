@@ -76,6 +76,22 @@ button:hover {
   width: 1440px;
   height: 312px;
 }
-.footer p {
+.footer-text {
   color: #f4f4fd;
+}
+.row-1 {
+  color: #E7E9FC;
+  width: 1128px;
+  height: 420px;
+  left: 156px;
+ }
+.row-2 {
+  width: 1128px;
+  height: 420px;
+  left: 156px;
+}
+.row-3 {
+  width: 1128px;
+  height: 420px;
+  left: 156px;
 }
