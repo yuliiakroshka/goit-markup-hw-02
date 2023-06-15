@@ -6,9 +6,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
   text-align: left;
-  text-decoration: none;
 }
-
 .header {
   width: 1440px;
   height: 72px;
@@ -74,6 +72,6 @@ button:hover {
 .footer {
   background-color: #2e2f42;
 }
-.footer {
+.footer p {
   color: #f4f4fd;
 }
