@@ -30,6 +30,9 @@ p {
   line-height: 1.5;
   color: #434455;
 }
+address {
+  font-style: normal;
+}
 .link {
   text-decoration: none;
   font-weight: 500;
@@ -38,7 +41,9 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+.list {
+  font-weight: 500;
+}
 .link-header:hover,
 .link-header:focus {
   color: #404bbf;
@@ -54,12 +59,6 @@ p {
 }
 .span-studio {
   color: #2e2f42;
-}
-address {
-}
-.link-address {
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 .link-address:hover,
 .link-address:focus {
@@ -158,7 +157,7 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff;
+  color: ;#4d5ae5 ;
   cursor: pointer;
 }
 .button-portfolio:hover,
