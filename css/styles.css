@@ -30,15 +30,13 @@ p {
   line-height: 1.5;
   color: #434455;
 }
-a {
+link {
   text-decoration: none;
   font-weight: 500;
   color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.nav {
 }
 
 .link-header:hover,
@@ -130,11 +128,13 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.section-team {
+  background-color: #f4f4fd;
+}
 .list-team {
   background-color: #ffffff;
 }
-.text-team {
-}
+
 .footer {
   background-color: #2e2f42;
 }
