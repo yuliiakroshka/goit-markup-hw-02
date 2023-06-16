@@ -48,7 +48,7 @@ address {
 .link:focus {
   color: #404bbf;
 }
-.header>a {
+.header > a {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -148,7 +148,7 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: ;#4d5ae5 ;
+  color: #4d5ae5;
   cursor: pointer;
 }
 .button-portfolio:hover,
