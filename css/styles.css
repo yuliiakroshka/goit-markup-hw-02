@@ -30,9 +30,6 @@ p {
   line-height: 1.5;
   color: #434455;
 }
-address {
-  font-style: normal;
-}
 .link {
   text-decoration: none;
   font-weight: 500;
@@ -48,7 +45,16 @@ address {
 .link:focus {
   color: #404bbf;
 }
+
+/*Header section*/
+address {
+  font-style: normal;
+}
+
 .address a {
+  color: #434455;
+}
+.address.link {
   color: #434455;
 }
 .nav > a {
@@ -63,9 +69,9 @@ address {
 .span-studio {
   color: #2e2f42;
 }
-.address.link {
-  color: #434455;
-}
+
+/*Section 1*/
+
 .section-hero {
   background-color: #2e2f42;
 }
@@ -91,6 +97,9 @@ address {
 .button-hero:focus {
   background-color: #404bbf;
 }
+
+/*Section 2*/
+
 .title-benefits {
   font-size: 36px;
   font-weight: 500;
@@ -98,6 +107,9 @@ address {
   letter-spacing: 0.02em;
   color: #454425;
 }
+
+/*Section 4*/
+
 .title-team,
 .title-section {
   font-size: 36px;
@@ -129,6 +141,9 @@ address {
 .list-item {
   background-color: #ffffff;
 }
+
+/*Footer 1*/
+
 .footer {
   background-color: #2e2f42;
 }
@@ -136,6 +151,9 @@ address {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+
+/*Portfolio 1*/
+
 .buttons {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
