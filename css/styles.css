@@ -34,9 +34,6 @@ body {
   color: #4d5ae5;
   text-decoration: none;
 }
-.studio {
-  color: #2e2f42;
-}
 address {
   font-style: normal;
 }
@@ -138,6 +135,9 @@ address {
 .footer-text {
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.span-studio {
+  color: #2e2f42;
 }
 .buttons {
   font-family: "Roboto", sans-serif;
