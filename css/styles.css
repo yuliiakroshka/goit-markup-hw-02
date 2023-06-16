@@ -91,10 +91,6 @@ address {
 .button-hero:focus {
   background-color: #404bbf;
 }
-
-.text-benefits {
-  letter-spacing: 0.02em;
-}
 .title-benefits {
   font-size: 36px;
   font-weight: 500;
@@ -102,22 +98,10 @@ address {
   letter-spacing: 0.02em;
   color: #454425;
 }
-.description-benefits {
-  line-height: 1.5;
-  color: #434455;
-}
 .title-section {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-.title-team {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
