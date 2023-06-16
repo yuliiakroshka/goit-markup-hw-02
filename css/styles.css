@@ -60,6 +60,9 @@ address {
 .span-studio {
   color: #2e2f42;
 }
+.address.link {
+  color: #434455;
+}
 .section-hero {
   background-color: #2e2f42;
 }
@@ -163,12 +166,6 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-.text-row {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 .span-studio-light {
   color: #f4f4fd;
