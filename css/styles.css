@@ -48,7 +48,7 @@ address {
 .link:focus {
   color: #404bbf;
 }
-.address > a {
+.address a {
   color: #434455;
 }
 .nav > a {
@@ -163,7 +163,7 @@ address {
   list-style: none;
   text-decoration: none;
 }
-.title {
+.title-row {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
