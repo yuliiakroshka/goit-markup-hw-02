@@ -48,7 +48,7 @@ address {
 .link:focus {
   color: #404bbf;
 }
-.header link {
+.header.list {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -160,7 +160,7 @@ address {
   list-style: none;
   text-decoration: none;
 }
-.list-row.title-row {
+.title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
