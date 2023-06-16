@@ -48,7 +48,7 @@ address {
 .link:focus {
   color: #404bbf;
 }
-.header > a {
+.nav {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -118,10 +118,10 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section-team.list {
+.section-team {
   background-color: #f4f4fd;
 }
-.list-team {
+.section-team.list {
   background-color: #ffffff;
 }
 
