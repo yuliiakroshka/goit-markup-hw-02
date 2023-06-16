@@ -11,11 +11,11 @@ body {
   line-height: 1.5;
   font-weight: 400;
   font-style: normal;
+  text-decoration: none;
 }
 ul {
   list-style: none;
   font-weight: 500;
-  text-decoration: none;
 }
 h3 {
   font-size: 20px;
@@ -32,12 +32,13 @@ p {
 }
 a {
   text-decoration: none;
-}
-.nav {
+  font-weight: 500;
   color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.nav {
 }
 
 .link-header:hover,
@@ -120,9 +121,6 @@ address {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-}
-.secton-team {
-  background-color: #f4f4fd;
 }
 .title-team {
   font-size: 36px;
