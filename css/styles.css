@@ -30,7 +30,7 @@ p {
   line-height: 1.5;
   color: #434455;
 }
-link {
+.link {
   text-decoration: none;
   font-weight: 500;
   color: #2e2f42;
